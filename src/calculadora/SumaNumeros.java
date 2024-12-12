@@ -2,6 +2,7 @@ package calculadora;
 
 import java.util.Scanner;
 
+// El programa hace la suma de dos numeros
 public class SumaNumeros {
 	
 	public static void main(String[] args) {
@@ -14,3 +15,4 @@ public class SumaNumeros {
 		System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
 	}
 }
+
